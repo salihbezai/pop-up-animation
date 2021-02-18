@@ -1,8 +1,8 @@
 body{
-    background-color: white;
+    background-color: rgba(73, 94, 26, 0.979);
 }
 .pop-up{
-    border: 6px dashed burlywood;
+    border: 6px dashed white;
     width: 40%;
     margin: 0 auto;
     position: relative;
